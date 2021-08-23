@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @iamshingie
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on spring-boot projects
 - 📫 How to reach me, email me on shingiraideke@gmail.com
 
 <!---

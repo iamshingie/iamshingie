@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamshingie
-- 👀 I’m interested in software Development
-- 📫 Email me on shingiraideke@gmail.com
+- 👀 I’m interested in Software Development & Smart Homes 
+- 📫 Email me on dekeshingirai@gmail.com
 
 <!---
 iamshingie/iamshingie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
